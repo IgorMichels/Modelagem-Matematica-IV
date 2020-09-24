@@ -14,7 +14,7 @@ Os trabalhos versarão sobre a modelagem da epidemia da COVID-19 em um determina
 
 ## Da Entrega
 
-A entrega será considerada como o último commit no repositório do trabalho, antes das 17h da sexta-feira da respectiva semana de avaliação. Tanto o código fonte do trabalho em $\latex$ como o PDF com o documento compilado devem ser "pushed" para o repositório para evitar problemas de compilação do documento, resultantes de diferenças no ambiente $\latex$ do Professor e dos alunos.
+A entrega será considerada como o último commit no repositório do trabalho, até às 23h59min de sábado da respectiva semana de avaliação. Tanto o código fonte do trabalho em $\latex$ como o PDF com o documento compilado devem ser "pushed" para o repositório para evitar problemas de compilação do documento, resultantes de diferenças no ambiente $\latex$ do Professor e dos alunos.
 
 ## Critérios de Avaliação para a A1
 
